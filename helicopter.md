@@ -4,7 +4,8 @@
 - https://www.youtube.com/watch?v=D2JFakRHn8Q
 - https://www.youtube.com/watch?v=l2n5ZnoSEnE
 - https://blog.naver.com/iy1455/222686790803
-- 
+- https://m.blog.naver.com/kbo8380/222282653485
+
 ### 드론 자격증으로 헬기 자격증 딸때
 ```
 - 필기시험 면제
