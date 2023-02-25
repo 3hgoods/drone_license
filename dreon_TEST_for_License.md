@@ -42,3 +42,11 @@ Kan's epic crash at Global 3D 2019 (mentioned at AccuRC): https://www.youtube.co
 
 
 ```
+
+
+
+### 유인헬기 무인화를 위한 비행조종시스템 및 소프트웨어 개발
+```
+- https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO201800040328&dbt=TRKO&rn=
+
+```
