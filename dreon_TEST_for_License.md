@@ -12,3 +12,33 @@
 
 
 ```
+
+### 4+1 Best RC Helicopter Simulators in 2022
+```
+https://www.youtube.com/watch?v=ZjQM3iMblNg
+
+NEXT CGM
+Website: https://www.cgm-online.com/
+
+ACCURC 
+Website: https://accurcsimulator.com/
+Demo & Full on Steam: https://store.steampowered.com/app/49...
+
+HELI-X
+Website: https://www.heli-x.info/cms/
+
+REALFLIGHT
+Website: https://www.realflight.com/
+Full version on Steam: https://store.steampowered.com/app/10...
+
+And the +1 - PHOENIX RC
+This software is an abandonware now, so it is hard to find it, although there are retailers with few leftover boxed versions, and I found a website where the software can be downloaded: https://www.rc-thoughts.com/phoenix-sim/ 
+Hardware key - aka dongle - is required. There are genuine (used) dongles on eBay sometimes, and you can buy cloned ones (which killed the software itself - this is why buy original always instead of the copycats!)
+
+The T-Rex 700 crash I mentioned in this video (at Phoenix RC): https://www.youtube.com/watch?v=IYS5m...
+And in slow motion: https://www.youtube.com/watch?v=QeGnF...
+
+Kan's epic crash at Global 3D 2019 (mentioned at AccuRC): https://www.youtube.com/watch?v=XvJrY...
+
+
+```
